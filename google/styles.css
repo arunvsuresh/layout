@@ -1,3 +1,28 @@
-body {
-  /* rules go here */
+/*body {
+   text-align: center;
+}*/
+
+img {
+	display: block;
+	margin: auto;
+	padding-top: 190px;
 }
+
+input {
+	width: 45%;
+	text-align: center;
+	margin-left: 28%;
+	margin-top: 22px;
+	padding-bottom: 11px;
+	background-image: url('google_voice_icon.png');
+	background-size: 17px 23px;
+	background-repeat: no-repeat;
+	background-position: 100%;
+}
+
+button.search {
+	margin-top: 15px;
+	margin-right: 13px;
+	margin-left: 42%;
+}
+
